@@ -12,5 +12,4 @@ reads and displays hardware identifiers from your system.
 &nbsp;
 
 ## usage
-
-download and run `yandere.bat` — that's it. fetches the latest version from this repo on every launch, so you're always up to date.
+download and run `yandere.bat`.  it always fetches the latest version for you.
