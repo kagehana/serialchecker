@@ -1,4 +1,4 @@
-> a lightweight windows hardware serial checker
+> a lightweight windows hardware serial checker \
 > [yandere.online](https://yandere.online) · [shop](https://yandere.online/shop/vannia)
 
 &nbsp;
