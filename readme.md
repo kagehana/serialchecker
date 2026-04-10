@@ -1,3 +1,17 @@
+<div align="right">
+  <img src="http://clipart-library.com/images_k/white-stars-transparent-background/white-stars-transparent-background-12.png" width="120px">
+</div>
+
+<div align="center">
+  <img src="http://31.media.tumblr.com/572f06b9b0e70296538dc65b9db7708f/tumblr_mq487yR69x1rnqolfo1_500.gif" width="80px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.pinimg.com/originals/bc/da/a2/bcdaa2f034a87641a661ada6f250f078.jpg" width="55px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="http://31.media.tumblr.com/572f06b9b0e70296538dc65b9db7708f/tumblr_mq487yR69x1rnqolfo1_500.gif" width="80px">
+</div>
+
+&nbsp;
+
 # yandere ♡
 
 > a lightweight windows hardware serial checker
@@ -39,6 +53,10 @@ no install · no dependencies · curl is built into windows 10/11
 [yandere.online](https://yandere.online) · [shop](https://yandere.online/shop/vannia)
 
 &nbsp;
+
+<div align="center">
+  <img src="http://clipart-library.com/images_k/white-stars-transparent-background/white-stars-transparent-background-12.png" width="80px">
+</div>
 
 ---
 
