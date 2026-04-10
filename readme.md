@@ -3,10 +3,6 @@
 > a lightweight windows hardware serial checker \
 > [yandere.online](https://yandere.online) · [shop](https://yandere.online/shop/vannia)
 
-```
-yandere serials checker
-```
-
 &nbsp;
 
 ## what it does
