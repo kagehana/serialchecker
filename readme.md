@@ -31,6 +31,4 @@ no install · no dependencies · curl is built into windows 10/11
 
 &nbsp;
 
----
-
 <sub>made with ♡ by yandere</sub>
